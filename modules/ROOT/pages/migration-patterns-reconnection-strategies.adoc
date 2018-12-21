@@ -89,5 +89,4 @@ In Mule 4 this behavior is kept by default, but you also get the chance to speci
 
 == See Also
 
-* xref:migration-patterns.adoc[Migration Patterns]
 * xref:migration-connectors.adoc[Migrating Connectors]
